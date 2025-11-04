@@ -1,16 +1,13 @@
-## Hi there 👋
+#### Hi there 👋
 
-<!--
-**AddieDie/AddieDie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### More about me:
+```js
+let me = Profile {
+    name: "Addie Arjmnd",
+    job: "Back-End Developer",
+    locales: ["ar_AR", "tr_TU", "en_UK"],
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    code: [Python, C, Javascript],
+    tools: [Git, Linux, Nvim],
+    interests: ["Computer science", "Networking", "Web-Development"],
+};
