@@ -40,7 +40,6 @@
   <ul>
     <li>Generate structured podcast scripts instantly 🎧</li>
     <li>Customizable tone, topic, and format ✍️</li>
-    <li>Clean UI built with HTML, CSS & JavaScript ⚡</li>
     <li>Export or copy scripts effortlessly 📜</li>
   </ul>
 </div>
@@ -61,7 +60,6 @@
   <ul>
     <li>Automation and productivity scripts ⚙️</li>
     <li>Automates repetitive workflows 🤖</li>
-    <li>Built with HTML, CSS & JavaScript 🧩</li>
     <li>Lightweight, easy to extend, and practical 🚀</li>
   </ul>
 </div>
