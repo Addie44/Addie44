@@ -1,13 +1,4 @@
-#### Hi there 👋
-
-##### More about me:
-```js
-let me = Profile {
-    name: "Addie Arjmnd",
-    job: "Back-End Developer",
-    locales: ["ar_AR", "tr_TU", "en_UK"],
-
-    code: [Python, C, Javascript],
-    tools: [Git, Linux, Nvim],
-    interests: ["Computer science", "Networking", "Web-Development"],
-};
+**Locales:**  ["ar_AR", "tr_TU", "en_UK"], <br>
+**Code:** [Python-C-Javascript], <br>
+**Tools:**  [Git, Linux, Nvim], <br>
+**Interests:**  ["Computer science", "Networking", "Web-Development"], <br>
