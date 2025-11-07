@@ -1,7 +1,7 @@
 # Hello, World! I'm Addie 👋
 
 **`Digital Craftzyboy (Developer)`**
-- 🔠 **Locales:**  ["ar_AR", "tr_TU", "en_UK"] <br>
+- 🔠 **Locales:**  ["ar_AR", "tr_TU", "en_US"] <br>
 - 📆 **Interests:**  ["Computer science", "Networking", "Web-Development"] <br>
 
 ---
