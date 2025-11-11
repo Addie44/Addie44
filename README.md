@@ -18,7 +18,7 @@
 ### <br>
 
 
-![AddieDie's GitHub stats](https://github-readme-stats.vercel.app/api?username=AddieDie&show_icons=true&theme=tokyonight&border_radius=4.5)
+![AddieDie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addie44&show_icons=true&theme=tokyonight&border_radius=4.5)
 
 <br><br>
 ## 🚀 Main-Projects
